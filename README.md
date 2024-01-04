@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on [Vesper](https://vesper.africa) and [ei Build](https://build.estateintel.com)
 
+- 📖 I’m currently learning Data Science
+
 - 👨‍💻 My portfolio website is available at [https://aybee.codes](https://aybee.codes)
 
 - 📫 How to reach me **ibrahimabdul050@gmail.com**
